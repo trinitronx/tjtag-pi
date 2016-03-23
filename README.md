@@ -1,7 +1,7 @@
 tjtag-pi is a fork of [tjtag][tjtag] with support for [Raspberry Pi][pi]
 which eliminates the need for a PC with parallel port.
 
-*NOTE*: The [original tjtag can be found here][tjtag]. The original author, Tornado, has stated:
+**NOTE**: The [original tjtag can be found here][tjtag]. The original author, Tornado, has stated:
 
 > I have decided that after working on Tjtag for almost 6 years, and very few donations, that tjtag will only be available from http://tjtag.com
 > 
