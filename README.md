@@ -1,5 +1,19 @@
-tjtag-pi is a fork of [tjtag][] with support for [Raspberry Pi][pi]
+tjtag-pi is a fork of [tjtag][tjtag] with support for [Raspberry Pi][pi]
 which eliminates the need for a PC with parallel port.
+
+*NOTE*: The [original tjtag can be found here][tjtag]. The original author, Tornado, has stated:
+
+> I have decided that after working on Tjtag for almost 6 years, and very few donations, that tjtag will only be available from http://tjtag.com
+> 
+> In order to receive tjtag, I will require a min. $5.00 donation, to help me cover cost. You may contact me with your requests, and for help with processors not in tjtag at my e-mail address tornado@tjtag.com
+> 
+> I'm sorry it has come to this....
+> 
+> Regards,
+> 
+> Tornado
+
+If you enjoy or find this software useful, please consider sending a donation his way [donation links may be found here][tjtag].  Supporting software & hardware is hard work!
 
 WARNING
 =======
@@ -51,5 +65,5 @@ Notes
    `&> /dev/null`), after having made sure everything works OK.
 
 [jumper]: http://www.seeedstudio.com/depot/1-pin-dualfemale-jumper-wire-100mm-50pcs-pack-p-260.html?cPath=44
-[tjtag]: http://sourceforge.net/projects/tjtag/
+[tjtag]: http://tjtag.com/downloads-utils/tjtag-3-0-2-downloads
 [pi]: http://www.raspberrypi.org/
